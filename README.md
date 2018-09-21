@@ -41,4 +41,4 @@ console.log(sum) // 6
 
 - `json-server`
 - - `json-server --watch ${json文件名} --port ${端口号}`
----
+---# accounts-app
